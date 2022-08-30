@@ -18,7 +18,7 @@ Visit https://rustup.rs/ and follow the instructions to get started with rust an
 
 The tool takes a list of urls from stdin and extracts the regex supplied as an argument. 
 
-### Extract HTML Title example ( using lookarounds ):
+### Extract HTML Title ( using lookarounds ):
 
 ```
 > cat urls.txt
