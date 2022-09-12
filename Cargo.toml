@@ -12,4 +12,4 @@ futures = "0.3.24"
 indicatif = "0.17.0"
 lazy_static = "1.4.0"
 fancy-regex = "0.10.0"
-feroxfuzz = "0.1.0-rc.0"
+wappalyzer = { git = "https://github.com/iustin24/wappalyzer?" }
