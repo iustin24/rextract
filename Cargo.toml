@@ -12,4 +12,3 @@ futures = "0.3.24"
 indicatif = "0.17.0"
 lazy_static = "1.4.0"
 fancy-regex = "0.10.0"
-openssl = { version = "0.10.40", features = ["vendored"] }
